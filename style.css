@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.maincontainer {
+    display: flex;
+    width: 100%;
+    height: 90vh;
+    gap: 5px;
+}
+
+.div-child {
+    width: 25%;
+}
+
+.one {
+    background-color: lightcoral;
+    overflow-x: scroll;
+}
+
+.two {
+    background-color: lightblue;
+}
+
+.three {
+    background-color: lightgoldenrodyellow;
+}
+
+.four {
+    background-color: lightpink;
+}
